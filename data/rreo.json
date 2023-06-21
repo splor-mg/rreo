@@ -1,0 +1,159 @@
+{
+    "lrf": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/lei_responsabilidade_fiscal/",
+    "ASPS": {
+        "2018": {
+            "VL_LOA_DESP": 5844405469.00,
+            "VL_CRED_AUT": 6099796289.00,
+            "VL_EMP": 5119077275.06,
+            "VL_LIQ": 3967909900.37,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/lrf/16-2018/bimestre6/anexo12.pdf",
+            "linha": "TOTAL DAS DESPESAS COM SAÚDE (V)"
+        },
+        "2019": 
+        {
+            "VL_LOA_DESP": 6196339332.00,
+            "VL_CRED_AUT": 6885427124.55,
+            "VL_EMP": 6717688869.59,
+            "VL_LIQ": 4704430779.40,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/lrf/17-2019/bimestre6/anexo12.pdf"
+        },
+        "2020": {
+            "VL_LOA_DESP": null,
+            "VL_CRED_AUT": null,
+            "VL_EMP": null,
+            "VL_LIQ": null,
+            "fonte": null
+        },        
+        "2021": {
+            "VL_LOA_DESP": null,
+            "VL_CRED_AUT": null,
+            "VL_EMP": null,
+            "VL_LIQ": null,
+            "fonte": null
+        },
+        "2022": {
+            "VL_LOA_DESP": null,
+            "VL_CRED_AUT": null,
+            "VL_EMP": null,
+            "VL_LIQ": null,
+            "fonte": null
+        }
+    },
+    "MDE": {
+        "2018": {
+            "VL_LOA_DESP": null,
+            "VL_CRED_AUT": null,
+            "VL_EMP": null,
+            "VL_LIQ": null,
+            "fonte": null
+        },
+        "2019": {
+            "VL_LOA_DESP": null,
+            "VL_CRED_AUT": null,
+            "VL_EMP": null,
+            "VL_LIQ": null,
+            "fonte": null
+        },
+        "2020": 
+        {
+            "VL_LOA_DESP": 18715797362.00,
+            "VL_CRED_AUT": 18008025833.11,
+            "VL_EMP": 11943981466.23,
+            "VL_LIQ": 11783570390.77,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/lrf/2020/6-bimestre/anexo8.pdf",
+            "linha": "29- TOTAL DAS DESPESAS COM AÇÕES TÍPICAS DE MDE (23 + 24 + 25 + 26 + 27 + 28)"
+        },
+        "2021": {
+            "VL_LOA_DESP": null,
+            "VL_CRED_AUT": null,
+            "VL_EMP": null,
+            "VL_LIQ": null,
+            "fonte": null
+        },
+        "2022": {
+            "VL_LOA_DESP": null,
+            "VL_CRED_AUT": null,
+            "VL_EMP": null,
+            "VL_LIQ": null,
+            "fonte": null
+        }
+    },
+    "BO": {
+        "2018": {
+            "VL_LOA_DESP": null,
+            "VL_CRED_AUT": null,
+            "VL_EMP": null,
+            "VL_LIQ": null,
+            "fonte": null
+        },
+        "2019": {
+            "VL_LOA_DESP": null,
+            "VL_CRED_AUT": null,
+            "VL_EMP": null,
+            "VL_LIQ": null,
+            "fonte": null
+        },
+        "2020": 
+        {
+            "VL_LOA_DESP": null,
+            "VL_CRED_AUT": null,
+            "VL_EMP": null,
+            "VL_LIQ": null,
+            "fonte": null
+        },
+        "2021": {
+            "VL_LOA_DESP": null,
+            "VL_CRED_AUT": null,
+            "VL_EMP": null,
+            "VL_LIQ": null,
+            "fonte": null
+        },
+        "2022": 
+        {
+            "VL_LOA_DESP": 137441445413.00,
+            "VL_CRED_AUT": 149174884131.88,
+            "VL_EMP": 116489779176.87,
+            "VL_LIQ": 111039756965.04,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/lrf/2022/6-bimestre/anexo1.pdf"
+        }
+    },
+    "TRANSF_MUN": {
+        "2018": {
+            "VL_LOA_DESP": null,
+            "VL_CRED_AUT": null,
+            "VL_EMP": null,
+            "VL_LIQ": null,
+            "fonte": null
+        },
+        "2019": {
+            "VL_LOA_DESP": null,
+            "VL_CRED_AUT": null,
+            "VL_EMP": null,
+            "VL_LIQ": null,
+            "fonte": null
+        },
+        "2020": 
+        {
+            "VL_LOA_DESP": null,
+            "VL_CRED_AUT": null,
+            "VL_EMP": null,
+            "VL_LIQ": null,
+            "fonte": null
+        },
+        "2021": {
+            "VL_LOA_DESP": null,
+            "VL_CRED_AUT": null,
+            "VL_EMP": null,
+            "VL_LIQ": null,
+            "fonte": null
+        },
+        "2022": 
+        {
+            "VL_LOA_DESP": null,
+            "VL_CRED_AUT": null,
+            "VL_EMP": null,
+            "VL_LIQ": null,
+            "fonte": null
+        }
+    }    
+}
