@@ -110,7 +110,7 @@
         "2021": {
             "VL_LOA_DESP": 121924067305.00,
             "VL_CRED_AUT": 145598588972.92,
-            "VL_EMP": 128995497417.03,
+            "VL_EMP": 128891804746.54,
             "VL_LIQ": 121880593235.67,
             "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/lrf/2021/6-bimestre/anexo1.pdf"
         },
@@ -136,7 +136,10 @@
             "VL_CRED_AUT": 15450493445.00,
             "VL_EMP": 16001329470.87,
             "VL_LIQ": 16001329470.87,
-            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/lrf/17-2019/bimestre6/anexo1.pdf"
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/lrf/17-2019/bimestre6/anexo1.pdf",
+            "notes": [
+                "O valor do crédito autorizado publicado pela SEF é igual ao crédito inicial e está incorreto. Vide data/20230621T155805.png"
+            ]
         },
         "2020": 
         {
