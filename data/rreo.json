@@ -161,5 +161,68 @@
             "VL_LIQ": 1190191791.88,
             "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/lrf/2022/6-bimestre/anexo1.pdf"
         }
-    }    
+    },
+    "DTP": {
+        "2018": {
+            "VL_LOA_DESP": 37573191483,
+            "VL_EMP": 43095423307.54,
+            "VL_LIQ": 42756672850.15,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/gestaofiscal/ano2018/consolidado_poderes_2018.pdf"
+        },
+        "2019": {
+            "VL_LOA_DESP": 37272616780,
+            "VL_EMP": 43215035266.96,
+            "VL_LIQ": 43213709178.06,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/gestaofiscal/ano2019/consolidado_poderes_2019.pdf"
+        },
+        "2020": 
+        {
+            "VL_LOA_DESP": 40422648634,
+            "VL_EMP": 44272070506.46,
+            "VL_LIQ": 44270887350.44,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/gestaofiscal/ano2020/consolidado_poderes_2020.pdf"
+        },
+        "2021": {
+            "VL_LOA_DESP": 38326743863,
+            "VL_EMP": 47020852062.94,
+            "VL_LIQ": 46983639097.32,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/gestaofiscal/ano2021/consolidado_poderes_2021.pdf"
+        },
+        "2022": 
+        {
+            "VL_LOA_DESP": 48959402863,
+            "VL_EMP": 52131614406.71,
+            "VL_LIQ": 52114840328.36,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/gestaofiscal/2022/consolidado_poderes_2022.pdf"
+        }
+    },
+    "DBP": {
+        "2018": {
+            "VL_EMP": 50733752912.08,
+            "VL_LIQ": 50344120031.80,
+            "fonte": null
+        },
+        "2019": {
+            "VL_EMP": 51512537265.78,
+            "VL_LIQ": 51451565363.69,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/gestaofiscal/ano2019/consolidado_poderes_2019.pdf"
+        },
+        "2020": 
+        {
+            "VL_EMP": 53896722060.06,
+            "VL_LIQ": 53800280426.20,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/gestaofiscal/ano2020/consolidado_poderes_2020.pdf"
+        },
+        "2021": {
+            "VL_EMP": 57679250630.98,
+            "VL_LIQ": 57596929720.38,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/gestaofiscal/ano2021/consolidado_poderes_2021.pdf"
+        },
+        "2022": 
+        {
+            "VL_EMP": 64222656369.41,
+            "VL_LIQ": 64082713767.69,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/gestaofiscal/2022/consolidado_poderes_2022.pdf"
+        }
+    }        
 }
