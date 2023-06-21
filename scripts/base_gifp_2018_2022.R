@@ -17,7 +17,7 @@ add_criterios_desp <- function(base, detalhe) {
   return(base[])
 }
 
-cols <- c("ANO", "UO_COD","ACAO_COD", "GRUPO_COD", "IPG_COD", "FONTE_COD", "IPU_COD")
+cols <- c("ANO", "UO_COD","ACAO_COD", "GRUPO_COD", "IPG_COD", "FONTE_COD", "IPU_COD", "MODALIDADE_COD")
 criterios <- c("CRITERIO_SEPLAG","OBRIG", "TRANSF_MUN", "MDE", "ASPS", "INTRA_SAUDE", "FAPEMIG", "OUTROS_PODERES", "DTP", "DBP")
 anos <- 2018:2022
 
