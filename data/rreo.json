@@ -59,8 +59,7 @@
             "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/lrf/17-2019/bimestre6/anexo8.pdf",
             "linha": "29- TOTAL DAS DESPESAS COM AÇÕES TÍPICAS DE MDE (23 + 24 + 25+ 26 + 27 + 28)"
         },
-        "2020": 
-        {
+        "2020": {
             "VL_LOA_DESP": 18715797362.00,
             "VL_CRED_AUT": 18008025833.11,
             "VL_EMP": 11943981466.23,
@@ -69,7 +68,7 @@
             "linha": "29- TOTAL DAS DESPESAS COM AÇÕES TÍPICAS DE MDE (23 + 24 + 25 + 26 + 27 + 28)"
         },
         "2021": {
-            "VL_LOA_DESP": null,
+            "VL_LOA_DESP": 12324320447.00,
             "VL_CRED_AUT": 14887298520.03,
             "VL_EMP": 14402505426.16,
             "VL_LIQ": 13258229866.35,
@@ -77,7 +76,7 @@
             "linha": "13- TOTAL DAS DESPESAS DO FUNDEB (11 + 12) + 29- TOTAL DAS DESPESAS COM AÇÕES TÍPICAS DE MDE (23 + 24 + 25 + 26 + 27)"
         },
         "2022": {
-            "VL_LOA_DESP": null,
+            "VL_LOA_DESP": 14450108767,
             "VL_CRED_AUT": 16657424338.96,
             "VL_EMP": 16127399686.83,
             "VL_LIQ": 15825145130.92,
