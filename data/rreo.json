@@ -15,44 +15,49 @@
             "VL_CRED_AUT": 6885427124.55,
             "VL_EMP": 6717688869.59,
             "VL_LIQ": 4704430779.40,
-            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/lrf/17-2019/bimestre6/anexo12.pdf"
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/lrf/17-2019/bimestre6/anexo12.pdf",
         },
         "2020": {
-            "VL_LOA_DESP": null,
-            "VL_CRED_AUT": null,
-            "VL_EMP": null,
-            "VL_LIQ": null,
-            "fonte": null
+            "VL_LOA_DESP": 6641209961.00,
+            "VL_CRED_AUT": 6963303438.05,
+            "VL_EMP": 6608069854.22,
+            "VL_LIQ": 5779881741.69,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/lrf/2020/6-bimestre/anexo12.pdf",
+            "linha":"TOTAL (XII) = (V + VI + VII + VIII + IX + X + XI)"
         },        
         "2021": {
-            "VL_LOA_DESP": null,
-            "VL_CRED_AUT": null,
-            "VL_EMP": null,
-            "VL_LIQ": null,
-            "fonte": null
+            "VL_LOA_DESP": 6656652105.00,
+            "VL_CRED_AUT": 8558684345.55,
+            "VL_EMP": 8502189668.87,
+            "VL_LIQ": 7718130380.53,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/lrf/2021/6-bimestre/anexo12.pdf",
+            "linha": "TOTAL (XII) = (V + VI + VII + VIII + IX + X + XI)"
         },
         "2022": {
-            "VL_LOA_DESP": null,
-            "VL_CRED_AUT": null,
-            "VL_EMP": null,
-            "VL_LIQ": null,
-            "fonte": null
+            "VL_LOA_DESP": 8645376371.00,
+            "VL_CRED_AUT": 9339210678.70,
+            "VL_EMP": 9155125730.69,
+            "VL_LIQ": 8323649901.23,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/lrf/2022/6-bimestre/anexo12.pdf",
+            "linha": "TOTAL (XII) = (V + VI + VII + VIII + IX + X + XI)"
         }
     },
     "MDE": {
         "2018": {
-            "VL_LOA_DESP": null,
-            "VL_CRED_AUT": null,
-            "VL_EMP": null,
-            "VL_LIQ": null,
-            "fonte": null
+            "VL_LOA_DESP": 11206764974.00,
+            "VL_CRED_AUT": 12029276964.02,
+            "VL_EMP": 10432078832.98,
+            "VL_LIQ": 9702667338.40,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/lrf/16-2018/bimestre6/anexo8.pdf",
+            "linha": "29- TOTAL DAS DESPESAS COM AÇÕES TÍPICAS DE MDE (23 + 24 + 25 + 26 + 27 + 28)"
         },
         "2019": {
-            "VL_LOA_DESP": null,
-            "VL_CRED_AUT": null,
-            "VL_EMP": null,
-            "VL_LIQ": null,
-            "fonte": null
+            "VL_LOA_DESP": 11651098516.00,
+            "VL_CRED_AUT": 12503887260.84,
+            "VL_EMP": 11940302620.42,
+            "VL_LIQ": 11678943403.25,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/lrf/17-2019/bimestre6/anexo8.pdf",
+            "linha": "29- TOTAL DAS DESPESAS COM AÇÕES TÍPICAS DE MDE (23 + 24 + 25+ 26 + 27 + 28)"
         },
         "2020": 
         {
@@ -65,48 +70,50 @@
         },
         "2021": {
             "VL_LOA_DESP": null,
-            "VL_CRED_AUT": null,
-            "VL_EMP": null,
-            "VL_LIQ": null,
-            "fonte": null
+            "VL_CRED_AUT": 14887298520.03,
+            "VL_EMP": 14402505426.16,
+            "VL_LIQ": 13258229866.35,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/lrf/2021/6-bimestre/anexo8.pdf",
+            "linha": "13- TOTAL DAS DESPESAS DO FUNDEB (11 + 12) + 29- TOTAL DAS DESPESAS COM AÇÕES TÍPICAS DE MDE (23 + 24 + 25 + 26 + 27)"
         },
         "2022": {
             "VL_LOA_DESP": null,
-            "VL_CRED_AUT": null,
-            "VL_EMP": null,
-            "VL_LIQ": null,
-            "fonte": null
+            "VL_CRED_AUT": 16657424338.96,
+            "VL_EMP": 16127399686.83,
+            "VL_LIQ": 15825145130.92,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/lrf/2022/6-bimestre/anexo8.pdf",
+            "linha": "13- TOTAL DAS DESPESAS DO FUNDEB (11 + 12) + 29- TOTAL DAS DESPESAS COM AÇÕES TÍPICAS DE MDE (23 + 24 + 25 + 26 + 27)"
         }
     },
     "BO": {
         "2018": {
-            "VL_LOA_DESP": null,
-            "VL_CRED_AUT": null,
-            "VL_EMP": null,
-            "VL_LIQ": null,
-            "fonte": null
+            "VL_LOA_DESP": 101057263378.00,
+            "VL_CRED_AUT": 110550527161.79,
+            "VL_EMP": 102986641548.54,
+            "VL_LIQ": 98381285415.57,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/lrf/16-2018/bimestre6/anexo1.pdf"
         },
         "2019": {
-            "VL_LOA_DESP": null,
-            "VL_CRED_AUT": null,
-            "VL_EMP": null,
-            "VL_LIQ": null,
-            "fonte": null
+            "VL_LOA_DESP": 111773670980.00,
+            "VL_CRED_AUT": 116866153387.56,
+            "VL_EMP": 108180584581.07,
+            "VL_LIQ": 103025640361.83,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/lrf/17-2019/bimestre6/anexo1.pdf"
         },
         "2020": 
         {
-            "VL_LOA_DESP": null,
-            "VL_CRED_AUT": null,
-            "VL_EMP": null,
-            "VL_LIQ": null,
-            "fonte": null
+            "VL_LOA_DESP": 110473788611.00,
+            "VL_CRED_AUT": 117953958470.18,
+            "VL_EMP": 107107557289.70,
+            "VL_LIQ": 102828583111.12,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/lrf/2020/6-bimestre/anexo1.pdf"
         },
         "2021": {
-            "VL_LOA_DESP": null,
-            "VL_CRED_AUT": null,
-            "VL_EMP": null,
-            "VL_LIQ": null,
-            "fonte": null
+            "VL_LOA_DESP": 121924067305.00,
+            "VL_CRED_AUT": 145598588972.92,
+            "VL_EMP": 128995497417.03,
+            "VL_LIQ": 121880593235.67,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/lrf/2021/6-bimestre/anexo1.pdf"
         },
         "2022": 
         {
@@ -119,41 +126,41 @@
     },
     "TRANSF_MUN": {
         "2018": {
-            "VL_LOA_DESP": null,
-            "VL_CRED_AUT": null,
-            "VL_EMP": null,
-            "VL_LIQ": null,
-            "fonte": null
+            "VL_LOA_DESP": 14649639529.00,
+            "VL_CRED_AUT": 15188233908.00,
+            "VL_EMP": 15188233908.00,
+            "VL_LIQ": 15098160708.93,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/lrf/16-2018/bimestre6/anexo1.pdf"
         },
         "2019": {
-            "VL_LOA_DESP": null,
-            "VL_CRED_AUT": null,
-            "VL_EMP": null,
-            "VL_LIQ": null,
-            "fonte": null
+            "VL_LOA_DESP": 15450493445.00,
+            "VL_CRED_AUT": 15450493445.00,
+            "VL_EMP": 16001329470.87,
+            "VL_LIQ": 16001329470.87,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/lrf/17-2019/bimestre6/anexo1.pdf"
         },
         "2020": 
         {
-            "VL_LOA_DESP": null,
-            "VL_CRED_AUT": null,
-            "VL_EMP": null,
-            "VL_LIQ": null,
-            "fonte": null
+            "VL_LOA_DESP": 16684958775.00,
+            "VL_CRED_AUT": 16684958775.00,
+            "VL_EMP": 16237488691.38,
+            "VL_LIQ": 16213251019.68,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/lrf/2020/6-bimestre/anexo1.pdf"
         },
         "2021": {
-            "VL_LOA_DESP": null,
-            "VL_CRED_AUT": null,
-            "VL_EMP": null,
-            "VL_LIQ": null,
-            "fonte": null
+            "VL_LOA_DESP": 16116669740.00,
+            "VL_CRED_AUT": 19729018152.00,
+            "VL_EMP": 19727434047.45,
+            "VL_LIQ": 19702580847.32,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/lrf/2021/6-bimestre/anexo1.pdf"
         },
         "2022": 
         {
-            "VL_LOA_DESP": null,
-            "VL_CRED_AUT": null,
-            "VL_EMP": null,
-            "VL_LIQ": null,
-            "fonte": null
+            "VL_LOA_DESP": 20757348623.00,
+            "VL_CRED_AUT": 20748479714.00,
+            "VL_EMP": 1190191791.88,
+            "VL_LIQ": 1190191791.88,
+            "fonte": "http://www.fazenda.mg.gov.br/governo/contadoria_geral/lrf/2022/6-bimestre/anexo1.pdf"
         }
     }    
 }
