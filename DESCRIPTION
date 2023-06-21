@@ -1,0 +1,13 @@
+Package: Dependencies
+Version: 0.0.0-9000
+Imports:
+    renv,
+    testthat,
+    data.table,
+    formattable,
+    readxl,
+    jsonlite,
+    relatorios,
+    execucao
+Remotes: bitbucket::dcgf/relatorios@v0.7.01, bitbucket::dcgf/execucao@v0.5.18
+Encoding: UTF-8
